@@ -1,2 +1,3 @@
 # component-model-art
-some re-usable images for the webassembly component model
+
+Some re-usable images for the [WebAssembly Component Model](https://github.com/WebAssembly/component-model).
